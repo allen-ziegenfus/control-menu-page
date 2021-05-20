@@ -1,0 +1,4 @@
+Bundle-Name: OSB WWW Extensions Control Menu Page
+Bundle-SymbolicName: com.liferay.osb.www.extensions.control.menu.page
+Bundle-Version: 1.0.0
+Web-ContextPath: /osb-control-menu-page
